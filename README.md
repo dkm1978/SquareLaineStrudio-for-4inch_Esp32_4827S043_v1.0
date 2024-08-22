@@ -4,7 +4,7 @@
 
 ![alt text](4inch_Esp32_4827S043.png)
 
-[Aliexpress link.](https://pl.aliexpress.com/item/1005004952726089.html)
+[Aliexpress link.](https://pl.aliexpress.com/item/1005006625303218.html)
 
 Generated files for [VS Code](https://code.visualstudio.com/) + [PlatformIO](https://platformio.org/)
 
